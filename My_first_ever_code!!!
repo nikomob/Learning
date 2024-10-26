@@ -1,0 +1,6 @@
+#nothing special but im proud of it 
+
+print("Hey, welcome to the band name generator!!!")
+fav_animal = input("What is your favorite animal???\n")
+rand_word = input("Now a word that you think will fit well and you like\n")
+print("The band name can be " + fav_animal + " " + rand_word + "!")
